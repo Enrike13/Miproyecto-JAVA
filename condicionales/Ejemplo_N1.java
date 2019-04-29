@@ -14,7 +14,7 @@ public class Ejemplo_N1 {
         if (numero == dato) {
             JOptionPane.showMessageDialog(null, "El numero es: "+dato);
         } else {
-            JOptionPane.showMessageDialog(null, "El numero es: diferente de "+dato);
+            JOptionPane.showMessageDialog(null, "El numero es diferente de "+dato);
         }
     }
     
